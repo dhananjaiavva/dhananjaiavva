@@ -1,18 +1,59 @@
-# 💫 About Me:
-To make your GitHub profile stand out, your "About Me" should highlight the unique bridge you’re building between **Computer Science Engineering** and your high-level **Athletic background**.<br><br>Since you are developing projects like **Statline** and **Hostel-ez**, your profile should reflect a developer who builds practical solutions for real-world communities.<br><br>Here is a personalized `README.md` layout for your GitHub profile:<br><br>-----<br><br># 🚀 Hi, I'm Dhananjai Avva<br><br>**B.Tech CSE Student | Web Developer | Tech-Athlete**<br><br>I am a Computer Science Engineering student at **K.R. Mangalam University** with a passion for building functional, user-centric web applications. My development philosophy is driven by the discipline of a national-level athlete—focusing on performance, scalability, and clean design.<br><br>-----<br><br>### 🛠️ What I’m Working On<br><br>  * **[Statline](https://www.google.com/search?q=https://github.com/yourusername/statline):** Developing "The Athlete's Ecosystem"—a sports analytics platform that connects players directly with retailers and builds community.<br>  * **[Hostel-ez](https://www.google.com/search?q=https://github.com/yourusername/hostel-ez):** A digital management platform for hostels to streamline attendance, complaints, and fees.<br>  * **Frontend Mastery:** Polishing my skills in **Figma-to-Code** workflows and asynchronous JavaScript.<br><br>-----<br><br>### 💻 Technical Toolkit<br><br>  * **Languages:** HTML5, CSS3, JavaScript (ES6+), Python, Shell Scripting.<br>  * **Design:** UI/UX Design in Figma.<br>  * **Core CS:** Data Structures (Stacks/Queues), Linux System Automation, Computer Fundamentals.<br><br>-----
+# 👋 Hi, I'm Dhananjai Avva  
+### **Computer Science Engineering Student | Web Developer | National-Level Athlete**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhananjai.avva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhananjai Avva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhananjai.avva@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhananjaiavva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" alt="Cherry Blossoms Japan" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dhananjaiavva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+I am a developer who thrives at the intersection of **clean code** and **high performance**. Currently pursuing my B.Tech in CSE at **K.R. Mangalam University**, I build digital solutions that solve real-world problems—from sports analytics to campus management.
+
+* **🏆 The Competitive Edge:** My discipline comes from being a **National-Level Athlete** in Swimming 🏊‍♂️ and Roll Ball Skating ⛸️. I believe the grit required for the field is the same grit required to debug.
+* **🎭 Creative Side:** I enjoy performing **Nukkad Nataks** (Street Plays) and traveling.
+
+---
+
+### 🚀 What I’m Building
+* **[Statline](https://github.com/dhananjaiavva/statline):** "The Athlete's Ecosystem." A sports analytics platform designed to connect players directly with retailers.
+* **[Hostel-ez](https://github.com/dhananjaiavva/hostel-ez):** A digital platform streamlining hostel life—managing attendance, complaints, and fees.
+* **[Async Weather Tracker](https://github.com/dhananjaiavva/weather-tracker):** A sleek, glassmorphism dashboard exploring asynchronous JavaScript.
+
+---
+
+### 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3 (Glassmorphism), JavaScript (ES6+), Figma |
+| **Backend & Tools** | Python, Shell Scripting (Linux Automation), Git/GitHub |
+| **CS Fundamentals** | Data Structures (Stacks & Queues), System Monitoring, UI/UX Design |
+
+---
+
+## 🌐 Socials & Contact
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhananjai.avva) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjai-avva-332658374/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhananjai.avva@gmail.com) 
+
+---
+
+<p align="center">
+  <img src="banner.png" alt="Dhananjai Avva Profile Banner" width="100%" />
+</p>
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhananjaiavva&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=dhananjaiavva&icon=0&color=0" alt="Visitor Count" />
+</p>
