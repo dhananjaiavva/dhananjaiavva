@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" alt="Cherry Blossoms Japan" />
-</p>
-
 # 👋 Hi, I'm Dhananjai Avva  
 ### **Computer Science Engineering Student | Web Developer | National-Level Athlete**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif" alt="Cherry Blossoms Japan" width="100%" />
+</p>
 
 ---
 
@@ -32,18 +32,19 @@ I am a developer who thrives at the intersection of **clean code** and **high pe
 
 ---
 
-## 🌐 Socials & Contact
-<p align="left">
-<a href="https://instagram.com/dhananjai.avva" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="dhananjai.avva" /></a>
-<a href="https://www.linkedin.com/in/dhananjai-avva-332658374/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="dhananjai-avva" /></a>
-<a href="mailto:dhananjai.avva@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="dhananjai.avva@gmail.com" /></a>
+<p align="center">
+  <img src="banner.png" alt="Dhananjai Avva Personal Brand Banner" width="100%" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="banner.png" alt="Dhananjai Avva Profile Banner" width="100%" />
+## 🌐 Socials & Contact
+<p align="left">
+<a href="https://instagram.com/dhananjai.avva" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dhananjai-avva-332658374/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dhananjai.avva@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
 
 ## 💻 Tech Stack
 <p align="left">
@@ -57,14 +58,12 @@ I am a developer who thrives at the intersection of **clean code** and **high pe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=tokyonight&show_icons=true" alt="Dhananjai Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=tokyonight&layout=compact" alt="Top Langs" height="170" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaiavva&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dhananjaiavva&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjaiavva&color=00f5d4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=dhananjaiavva&icon=0&color=0" alt="Visitor Count" />
 </p>
